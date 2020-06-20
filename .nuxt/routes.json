@@ -1,0 +1,26 @@
+[
+  {
+    "name": "hello",
+    "path": "/hello",
+    "component": "/Users/akiyasui/git/ts-nuxt-vuetify-sample/pages/hello/index.vue",
+    "chunkName": "pages/hello/index"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/akiyasui/git/ts-nuxt-vuetify-sample/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "hello-word",
+    "path": "/hello/:word",
+    "component": "/Users/akiyasui/git/ts-nuxt-vuetify-sample/pages/hello/_word.vue",
+    "chunkName": "pages/hello/_word"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/akiyasui/git/ts-nuxt-vuetify-sample/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
